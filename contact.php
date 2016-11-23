@@ -12,5 +12,11 @@ echo "Deuxieme hello world";
   </head>
   <body>
     <h1>CONTACT</h1>
+
+    <form class="" action="" method="post">
+      <label for="name">NAME</label>
+      <input type="text" name="name" value="">
+      <input type="submit" name="submit" value="">
+    </form>
   </body>
 </html>
